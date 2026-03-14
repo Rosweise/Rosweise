@@ -8,8 +8,8 @@
 
 ## 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,cmake,linux,git,vscode,opencv" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,cmake,linux,git,clion,vscode,opencv" />
 </p>
 
 ---
@@ -49,4 +49,6 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b>
+</p>

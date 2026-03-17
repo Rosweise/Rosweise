@@ -72,9 +72,19 @@
   </table>
 </div>
 
----
-
-<p align="center">
-  <br/>
-  <strong>Thanks for visiting! Let's optimize the world together.</strong>
-</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="left" width="160" style="border:none;">
+      <a href="https://github.com/Rouxiv">
+        <img 
+          src="https://github.com/Rouxiv/Rouxiv/blob/main/139831232_p0.png" 
+          width="140"
+          title="Keep optimizing"
+        />
+      </a>
+    </td>
+    <td align="center" style="border:none;">
+      <strong>Thanks for visiting! Let's optimize the world together.</strong>
+    </td>
+  </tr>
+</table>

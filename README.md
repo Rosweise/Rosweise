@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rouxi</h1>
-<img align="right" src="https://github.com/Rouxiv/Rouxiv/blob/main/136618201_p0_master1200.jpg" width="120"/>
+<img align="right" src="https://github.com/Rosweise/Rosweise/blob/main/136618201_p0_master1200.jpg" width="120"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Low-level+Programming+Enthusiast;Performance+Optimization+Specialist;Exploring+OpenCV+%26+FFmpeg" alt="Typing SVG" />
@@ -50,10 +50,10 @@
   <table>
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rouxiv&show_icons=true&theme=default&count_private=true&hide_border=false&bg_color=ffffff" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rosweise&show_icons=true&theme=default&count_private=true&hide_border=false&bg_color=ffffff" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouxiv&layout=compact&langs_count=6&theme=default&hide_border=false&bg_color=ffffff" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosweise&layout=compact&langs_count=6&theme=default&hide_border=false&bg_color=ffffff" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -63,19 +63,19 @@
   <table>
     <tr>
       <td align="center">
-        <img height="180em" src="https://streak-stats.demolab.com?user=Rouxiv&theme=default&hide_border=false&date_format=j-M-Y&background=FFFFFF" alt="GitHub Streak" />
+        <img height="180em" src="https://streak-stats.demolab.com?user=Rosweisev&theme=default&hide_border=false&date_format=j-M-Y&background=FFFFFF" alt="GitHub Streak" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rouxiv&theme=default" alt="Profile Summary" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rosweise&theme=default" alt="Profile Summary" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Rouxiv">
+  <a href="https://github.com/Rosweise">
     <img 
-      src="https://github.com/Rouxiv/Rouxiv/blob/main/139831232_p0.png" 
+      src="https://github.com/Rosweise/Rosweise/blob/main/139831232_p0.png" 
       width="140"
       title="Keep optimizing"
       style="vertical-align: middle; margin-right: 15px;"

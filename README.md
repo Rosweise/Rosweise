@@ -75,7 +75,7 @@
 <div align="center">
   <a href="https://github.com/Rosweise">
     <img 
-      src="https://github.com/Rosweise/Rosweise/blob/main/139831232_p0.png" 
+      src="https://github.com/Rosweise/Rosweise/blob/main/boqijiang2.png" 
       width="140"
       title="Keep optimizing"
       style="vertical-align: middle; margin-right: 15px;"

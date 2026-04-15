@@ -33,7 +33,7 @@
         <img src="https://skillicons.dev/icons?i=linux,cmake,bash" height="48" alt="System and Build Tools" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=opencv, spring, react" height="48" alt="Libraries" />
+        <img src="https://skillicons.dev/icons?i=opencv,spring,react" height="48" alt="Libraries" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=clion,vscode,git,vim" height="48" alt="IDE and Tools" />

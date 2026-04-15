@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,c,js,python, java" height="48" alt="C/C++" />
+        <img src="https://skillicons.dev/icons?i=cpp,c,js,python,java" height="48" alt="C/C++" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=linux,cmake,bash" height="48" alt="System and Build Tools" />

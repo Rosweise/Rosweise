@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rouxi</h1>
+<h1 align="center">Hi there, I'm Serena</h1>
 <img align="right" src="https://github.com/Rosweise/Rosweise/blob/main/boqijiang1.png" width="120"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
